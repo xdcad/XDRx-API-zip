@@ -1,3 +1,7 @@
+Due to file size limitations, please download from 
+https://sourceforge.net/projects/xdrx-api-zip/
+
+===================================================
 
 # XDrx-API-zip
 Autolisp development library written in ObjectARX (ZIP Version)
